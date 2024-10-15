@@ -1,3 +1,5 @@
+// https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=2981671574
+
 // hesap makinesi
 // değişkenler (let -> immutable, var -> mutable)
 // operatörler
